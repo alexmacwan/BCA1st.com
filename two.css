@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    background-color: #FDD8E3;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background-color: #FFFFFF;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  .logo img {
+    margin-right: 10px;
+  }
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: #000000;
+  }
+  .content {
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  button {
+    background-color: #fcf6f6f9;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  
+  }
+  .back{
+    background-image: url("G:\Alex\BLACK BOX\ITM-SLS-Baroda-University-Welcome-to-Campus (1).png");
+  }
